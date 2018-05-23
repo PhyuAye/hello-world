@@ -1,4 +1,4 @@
 # hello-world
-Learning GitHub with hello-world
-This  is our first project on Github.
-We are contiunig with tutorial./
+learning GitHub with hello-world
+this  is our first project on Github.
+we are contiunig with tutorial./
